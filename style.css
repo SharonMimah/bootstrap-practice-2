@@ -1,0 +1,12 @@
+.col-md-4{
+    height: ;
+      width: 50%;
+    float: left;
+    
+    background-color: #f0f0f0;
+}
+#sharon{
+    display:flex
+    justify-content: flex-end;
+    align-items: center;
+}
